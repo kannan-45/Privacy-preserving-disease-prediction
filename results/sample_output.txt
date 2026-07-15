@@ -1,0 +1,17 @@
+Sample output will be generated here after running `python src/main.py`.
+
+Example (illustrative):
+
+Model Params: 22000, Size: 0.0840 MB
+
+Round 1
+Hospital 1: {'Accuracy': 0.85, 'Precision': 0.71, 'Recall': 0.66, 'F1': 0.68}
+...
+Communication this round: 1.0080 MB
+
+FINAL RESULTS
+Combined: {'Accuracy': 0.89, 'Precision': 0.80, 'Recall': 0.77, 'F1': 0.78}
+Diabetes: {'Accuracy': 0.83, 'Precision': 0.74, 'Recall': 0.68, 'F1': 0.71}
+Cancer:   {'Accuracy': 0.95, 'Precision': 0.94, 'Recall': 0.93, 'F1': 0.93}
+
+Total Communication Cost: 5.0400 MB
