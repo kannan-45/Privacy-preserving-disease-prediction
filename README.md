@@ -1,4 +1,4 @@
-# 🔐 Privacy-Preserving Disease Prediction using Federated Learning
+#  Privacy-Preserving Disease Prediction using Federated Learning
 
 ## Overview
 
